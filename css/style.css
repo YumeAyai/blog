@@ -438,6 +438,9 @@ body {
   float: right;
   margin-right: -15px;
 }
+#nav-darkmode-btn:before {
+  content: "\f002";
+}
 #nav-rss-link:before {
   content: "\f09e";
 }
